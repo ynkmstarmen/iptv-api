@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-07 18:44:36,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+2025-10-10 18:41:17,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
+CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-6,https://jzb.wwkejishe.top/?id=584$订阅源
 CCTV-8,https://jzb.wwkejishe.top/?id=586$订阅源
@@ -13,6 +14,7 @@ CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12$订阅源
 CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
+CCTV-13,https://jzb.wwkejishe.top/?id=591$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13$订阅源
@@ -35,8 +37,8 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 湖北卫视,https://cc06.tv12.xyz/50.m3u8$订阅源
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
 黑龙江卫视,https://cc06.tv12.xyz/53.m3u8$订阅源
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
+黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
 重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
@@ -76,6 +78,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 西藏卫视,https://cc06.tv12.xyz/112.m3u8$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,https://cc06.tv12.xyz/109.m3u8$订阅源
-新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
+新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
 云南卫视,https://cc06.tv12.xyz/114.m3u8$订阅源
