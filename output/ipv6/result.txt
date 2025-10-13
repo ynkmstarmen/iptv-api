@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-10 18:41:17,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-10-13 18:43:44,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
@@ -10,7 +10,6 @@ CCTV-9,https://cc06.tv12.xyz/10.m3u8$订阅源
 CCTV-10,https://cc06.tv12.xyz/11.m3u8$订阅源
 CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
 CCTV-11,https://jzb.wwkejishe.top/?id=589$订阅源
-CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12$订阅源
 CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
@@ -26,6 +25,7 @@ CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
+CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://cc06.tv12.xyz/43.m3u8$订阅源
@@ -40,7 +40,9 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
+安徽卫视,https://jzb.wwkejishe.top/?id=612$订阅源
 重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
+重庆卫视,https://jzb.wwkejishe.top/?id=607$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
 东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
@@ -66,6 +68,7 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 内蒙古卫视,https://cc06.tv12.xyz/94.m3u8$订阅源
 宁夏卫视,https://cc06.tv12.xyz/96.m3u8$订阅源
 青海卫视,https://cc06.tv12.xyz/97.m3u8$订阅源
+青海卫视,https://jzb.wwkejishe.top/?id=605$订阅源
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
@@ -78,6 +81,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 西藏卫视,https://cc06.tv12.xyz/112.m3u8$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,https://cc06.tv12.xyz/109.m3u8$订阅源
-新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
+新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 云南卫视,https://cc06.tv12.xyz/114.m3u8$订阅源
