@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-22 18:41:36,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-10-25 18:40:54,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
@@ -15,7 +15,6 @@ CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://jzb.wwkejishe.top/?id=592$订阅源
 CCTV-15,https://jzb.wwkejishe.top/?id=593$订阅源
-CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 
@@ -43,5 +42,5 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 陕西卫视,https://jzb.wwkejishe.top/?id=603$订阅源
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
-新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
+新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
