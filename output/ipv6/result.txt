@@ -1,16 +1,15 @@
 🕘️更新时间,#genre#
-2025-10-25 18:40:54,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-10-28 18:38:52,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
 CCTV-3,https://jzb.wwkejishe.top/?id=580$订阅源
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5+,https://jzb.wwkejishe.top/?id=583$订阅源
 CCTV-6,https://jzb.wwkejishe.top/?id=584$订阅源
 CCTV-8,https://jzb.wwkejishe.top/?id=586$订阅源
 CCTV-11,https://jzb.wwkejishe.top/?id=589$订阅源
-CCTV-13,https://jzb.wwkejishe.top/?id=591$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
+CCTV-13,https://jzb.wwkejishe.top/?id=591$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://jzb.wwkejishe.top/?id=592$订阅源
@@ -19,15 +18,14 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 
 📡卫视频道,#genre#
-北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 安徽卫视,https://jzb.wwkejishe.top/?id=612$订阅源
 重庆卫视,https://jzb.wwkejishe.top/?id=607$订阅源
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
-东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
+东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
