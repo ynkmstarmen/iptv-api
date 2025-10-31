@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-28 18:38:52,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-10-31 18:39:06,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
@@ -18,7 +18,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 
 📡卫视频道,#genre#
-湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 安徽卫视,https://jzb.wwkejishe.top/?id=612$订阅源
