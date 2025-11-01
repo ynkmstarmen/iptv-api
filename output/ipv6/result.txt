@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 18:39:06,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-11-01 18:37:07,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
@@ -26,7 +26,6 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi$订阅源
@@ -39,5 +38,5 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 陕西卫视,https://jzb.wwkejishe.top/?id=603$订阅源
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
-新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
+新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
