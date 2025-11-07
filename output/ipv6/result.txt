@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-04 18:40:31,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
+2025-11-07 18:38:11,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
@@ -18,6 +18,5 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$订阅源
-深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
